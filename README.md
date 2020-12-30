@@ -12,5 +12,5 @@ da linguagem, consumo de memória etc.
 
 > Resolver problema é bom e pode ser divertido se você pensa de maneira diferente da maioria das pessoas.
 
-### Estruturas de dados importantes
+### Lista
 
