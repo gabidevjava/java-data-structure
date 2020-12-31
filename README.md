@@ -14,3 +14,6 @@ da linguagem, consumo de memória etc.
 
 ### Lista
 
+Graphs
+Trees
+
