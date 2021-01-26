@@ -18,5 +18,19 @@ da linguagem, consumo de memória etc.
 * Trees
 * Heaps
 * Hash sets
-* hash maps/tables
+* Hash maps/tables
+* Arrays
+* Linked lists
+* Stacks
+* Binary Search
+* Quicksort
+* Mergesort
+* A*
+* Breadth-first search
+* Depth-first search 
+* Divide and conquer
+* Dynamic programming
+
+### Muito importante ter também:
+
 
