@@ -31,7 +31,7 @@ da linguagem, consumo de memória etc.
 * Divide and conquer
 * Dynamic programming
 
-### Muito importante ter também:
+### Muito importante ter também
 
 * Algoritmos gerais
 * Algoritmos de Ordenação
