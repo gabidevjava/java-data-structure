@@ -14,6 +14,9 @@ da linguagem, consumo de memória etc.
 
 ### Lista
 
-Graphs
-Trees
+* Graphs
+* Trees
+* Heaps
+* Hash sets
+* hash maps/tables
 
