@@ -33,4 +33,13 @@ da linguagem, consumo de memória etc.
 
 ### Muito importante ter também:
 
-
+* Algoritmos gerais
+* Algoritmos de Ordenação
+* Estrutura de dados
+* Matemática discreta básica
+* Grafos
+* Recursão
+* POO
+* Big -O Notification
+* APIS
+* Testes automatizados
