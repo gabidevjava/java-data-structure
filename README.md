@@ -2,7 +2,7 @@
 
 > Tenha domínio do **core** do Java, seja muito bom em estrutura de dados.
 
-Todo dia sai novas tecnologias, você não vai dominar todas. Pense em uma **roda gigante**, a cada volta, a cada nova pessoa, são as novas tecnologias.
+Todo dia saem novas tecnologias, você não irá dominar todas. Pense em uma **roda gigante**, a cada volta, a cada nova pessoa, são as novas tecnologias.
 Mas a base, o conceito e o funcionamento continua sendo o mesmo, então quanto menos você não estive na borda, melhor. Esteja no núcleo, estrutura de dados, core
 da linguagem, consumo de memória etc. 
 
