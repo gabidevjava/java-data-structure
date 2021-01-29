@@ -6,7 +6,7 @@ Todo dia saem novas tecnologias, você não irá dominar todas. Pense em uma **r
 Mas a base, o conceito e o funcionamento continua sendo o mesmo, então quanto menos você não estive na borda, melhor. Esteja no núcleo, estrutura de dados, core
 da linguagem, consumo de memória etc. 
 
-> Seja um engenheiro de software, saiba como funciona, domine seu SO, domine o terminal (cmd)...
+> Seja um engenheiro de software, saiba como funciona, domine seu SO, domine o terminal, (cmd)...
 
 > Desenvolver software é resolver problemas, goste de resolver problemas, não fique reclamando disso e aquilo. 
 
