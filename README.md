@@ -10,7 +10,7 @@ da linguagem, consumo de memória etc.
 
 > Desenvolver software é resolver problemas, goste de resolver problemas, não fique reclamando disso e aquilo. 
 
-> Resolver problema é bom e pode ser divertido se você pensa de maneira diferente da maioria das pessoas.
+> Resolver problema é bom e pode ser divertido se você pensa de maneira diferente.
 
 ### Lista
 
