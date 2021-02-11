@@ -1,4 +1,4 @@
-## Estrutura de dados Java
+## Java Data Structure
 
 > Tenha domínio do **core** do Java, seja muito bom em estrutura de dados.
 
