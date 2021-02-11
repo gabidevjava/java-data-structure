@@ -1,18 +1,21 @@
 ## Java Data Structure
 
-> Tenha domínio do **core** do Java, seja muito bom em estrutura de dados.
+> Have mastery over the Java **core**. Be *amazing* in data structure.
 
-Todo dia saem novas tecnologias, você não irá dominar todas. Pense em uma **roda gigante**, a cada volta, a cada nova pessoa, são as novas tecnologias.
-Mas a base, o conceito e o funcionamento continua sendo o mesmo, então quanto menos você não estive na borda, melhor. Esteja no núcleo, estrutura de dados, core
-da linguagem, consumo de memória etc. 
+Think of a **ferris wheel**: for every time it turns, for every new person that enters it, you'll have new technologies to master.
 
-> Seja um engenheiro de software, saiba como funciona, domine seu SO, domine o terminal, (cmd)...
+However, the foundation, the base concepts and how they function remains the same, so the closer you are to the center the better. Be at the core: data structure, core
+language, memory consumption and so on.
 
-> Desenvolver software é resolver problemas, goste de resolver problemas, não fique reclamando disso e aquilo. 
+> Be a software engineer, know how it works, master your OS, master the terminal, learn Math.
 
-> Resolver problema é bom e pode ser divertido se você pensa de maneira diferente.
+> Developing software means solving problems. 
 
-### Lista
+> Enjoy solving problems and stop complaining about this and that!
+
+> Problem solving is nice and it can be even more fun if you think outside the box.
+
+### Main Subjects:
 
 * Graphs
 * Trees
@@ -31,7 +34,7 @@ da linguagem, consumo de memória etc.
 * Divide and conquer
 * Dynamic programming
 
-### Muito importante ter também
+### Also good to know
 
 * Algoritmos gerais
 * Algoritmos de Ordenação
