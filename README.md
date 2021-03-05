@@ -36,7 +36,7 @@ language, memory consumption and so on.
 
 ### Also good to know
 
-* Algoritmos gerais
+* general algorithms
 * Algoritmos de Ordenação
 * Estrutura de dados
 * Matemática discreta básica
