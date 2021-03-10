@@ -36,7 +36,7 @@ language, memory consumption and so on.
 
 ### Also good to know
 
-* general algorithms
+* General algorithms
 * Sorting Algorithms
 * Estrutura de dados
 * Matemática discreta básica
@@ -46,3 +46,9 @@ language, memory consumption and so on.
 * Big -O Notification
 * APIS
 * Testes automatizados
+
+--
+
+## Dynamic programming
+
+
