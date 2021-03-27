@@ -38,7 +38,7 @@ language, memory consumption and so on.
 
 * General algorithms
 * Sorting Algorithms
-* Estrutura de dados
+* Data Structure
 * Matemática discreta básica
 * Grafos
 * Recursão
