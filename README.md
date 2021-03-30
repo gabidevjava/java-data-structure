@@ -39,7 +39,7 @@ language, memory consumption and so on.
 * General algorithms
 * Sorting Algorithms
 * Data Structure
-* Matemática discreta básica
+* Basic discrete mathematics
 * Grafos
 * Recursão
 * POO
