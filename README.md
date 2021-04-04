@@ -46,9 +46,3 @@ language, memory consumption and so on.
 * Big -O Notification
 * APIS
 * Testes automatizados
-
---
-
-## Dynamic programming
-
-
