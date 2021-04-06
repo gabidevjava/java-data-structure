@@ -40,9 +40,8 @@ language, memory consumption and so on.
 * Sorting Algorithms
 * Data Structure
 * Basic discrete mathematics
-* Grafos
 * Recursão
 * POO
-* Big -O Notification
+* Big O notation
 * APIS
-* Testes automatizados
+* Automated testing
