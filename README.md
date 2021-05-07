@@ -1,4 +1,4 @@
-## Java Data Structure
+## Data Structure
 
 > Have mastery over the Java **core**. Be *amazing* in data structure.
 
